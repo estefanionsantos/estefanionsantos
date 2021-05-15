@@ -2,6 +2,6 @@
 
 click "fork" in the repositories below and feel free to contribute:
 
-- [Rubricate](https://github.com/rubricate) are a set of decoupled and reusable PHP libraries
-- [DobokCSS](https://github.com/dobokcss) HTML, CSS, and JS framework for developing responsive
+- [Rubricate](https://github.com/rubricate) PHP framework for object-oriented web development
+- [DobokCSS](https://github.com/dobokcss) responsive front-end framework
 
